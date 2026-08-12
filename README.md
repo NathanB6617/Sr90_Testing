@@ -57,3 +57,6 @@ Note that sudo will most likely be needed later to open and run Janus.
 ## Other Notes
 
 Please note that the GUI is setup based on our current design and is liable to changes based on file paths and directories. Please alter the code accordingly. Also note that for troubleshooting, the section where Janus=True can be changed to False to not allow Janus to open and just have the stage move along its path. 
+
+## Example Light Yield Graph
+![Alt text](Example.png)
